@@ -1,0 +1,27 @@
+h1 {
+    margin-top: 100px;
+    margin-left: 100px;
+    font-family: "Neco";
+    font-size: 50px;
+    color: rgb(255, 0, 183);
+}
+
+nav ul {
+    list-style: none;
+    text-align: center;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+nav ul li a:hover {
+    text-decoration: underline;
+}
